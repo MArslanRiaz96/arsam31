@@ -40,3 +40,6 @@
 <!-- BLOG-POST-LIST:START -->
 - [aws](https://dev.to/arsam31/aws-5eo8)
 <!-- BLOG-POST-LIST:END -->
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsam31&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
