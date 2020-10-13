@@ -1,19 +1,8 @@
-![I am GitHub read me generator creator](https://camo.githubusercontent.com/dcaff4b8d055f7ce66b9ac20fc9460fa2397d1d6/68747470733a2f2f726973686176616e616e642e6769746875622e696f2f7374617469632f696d616765732f6772656574696e67732e676966)
-
-
-
-
-
-
-
-
-
-
 <img align="right" src="https://github.com/xtenzQ/xtenzQ/blob/master/readme.png" />
 
 
 
-
+<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="275" /></a>
 
 
 
