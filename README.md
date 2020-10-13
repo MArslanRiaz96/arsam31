@@ -7,7 +7,7 @@
 
 
 
-![Hey there, I'm ARSAM. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+![GFDGFDGDFGDFGDFGDFGDFGDFGDFGD](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 
 
 
