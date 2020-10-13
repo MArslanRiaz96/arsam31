@@ -36,7 +36,7 @@
 
 
 
-:books: CheckOut My Latest Blog Posts
+:book: CheckOut My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [aws](https://dev.to/arsam31/aws-5eo8)
 <!-- BLOG-POST-LIST:END -->
