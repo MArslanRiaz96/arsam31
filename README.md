@@ -61,30 +61,15 @@
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000?&logo=Cisco)
 <!-- wi*quL3fcV -->
 
-**Web/Full Stack projects**
 
-[![My Website](https://img.shields.io/badge/-🧬 My Website-000?)](https://github.com/adamalston/v2)
-[![COVID-19 Dashboard](https://img.shields.io/badge/-🦠 COVID‑19 Dashboard-000?)](https://github.com/adamalston/COVID-19-Dashboard)
-[![Summarizer](https://img.shields.io/badge/-📝 Summarizer-000?)](https://github.com/adamalston/Summarizer)
-[![Voice Poker](https://img.shields.io/badge/-🔊 Voice Poker-000?)](https://github.com/adamalston/Poker)
-[![PokémonGo Map](https://img.shields.io/badge/-🗺️ PokémonGo Map-000?)](https://github.com/adamalston/PokemonGo-Map)
+<!--**Other projects**
 
-**Cybersecurity projects**
-
-[![Spectre & Meltdown](https://img.shields.io/badge/-🛡️ Spectre & Meltdown-000?)](https://github.com/adamalston/Meltdown-Spectre)
-[![Heartbleed](https://img.shields.io/badge/-🩸 Heartbleed-000?)](https://github.com/adamalston/Heartbleed)
-[![SYN Flood](https://img.shields.io/badge/-🌊 SYN Flood-000?)](https://github.com/adamalston/SYN-Flood)
-[![Packet Sniffing & Spoofing](https://img.shields.io/badge/-🗂️ Packet Sniffing & Spoofing-000?)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
-[![SQL Injection](https://img.shields.io/badge/-💉 SQL Injection-000?)](https://github.com/adamalston/SQL-Injection)
-
-**Other projects**
-
-[![Overwatch](https://img.shields.io/badge/-📊 Overwatch-000?)](https://github.com/adamalston/Overwatch)
+<!--[![Overwatch](https://img.shields.io/badge/-📊 Overwatch-000?)](https://github.com/adamalston/Overwatch)
 [![Clean My Mac](https://img.shields.io/badge/-🧼 Clean My Mac-000?)](https://github.com/adamalston/Clean-My-Mac)
 [![SMTP](https://img.shields.io/badge/-📮 SMTP-000?)](https://github.com/adamalston/SMTP)
 [![Network Tools](https://img.shields.io/badge/-🌐 Network Tools-000?)](https://github.com/adamalston/Network-Tools)
 [![Cache Simulator](https://img.shields.io/badge/-🕹️ Cache Simulator-000?)](https://github.com/adamalston/CacheSimulator)
-[![RGB Text Colorizer](https://img.shields.io/badge/-🌈 RGB Text Colorizer-000?)](https://github.com/adamalston/rgbTextColorizer)
+[![RGB Text Colorizer](https://img.shields.io/badge/-🌈 RGB Text Colorizer-000?)](https://github.com/adamalston/rgbTextColorizer)-->
 
 
 
