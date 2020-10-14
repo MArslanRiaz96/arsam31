@@ -24,6 +24,7 @@
 ![MicrosoftSqlServer](https://img.shields.io/badge/-MicrosoftSqlServer-000?&logo=microsoft-sql-server&logoColor=CC2927)
 ![Skype](https://img.shields.io/badge/-Skype-000?&logo=Skype&logoColor=00AFF0)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=Github&logoColor=181717)
+
 **Technologies**
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
