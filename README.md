@@ -1,11 +1,6 @@
 
 ![GFDGFDGDFGDFGDFGDFGDFGDFGDFGD](https://github.com/arsam31/arsam31/blob/main/arsam1.gif)
 
-
-## Where To Find Me:
-<p><a href="https://www.twitter.com/arsamrahmaan31"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/arsamrahmaan"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>  <a href="https://medium.com/@arsamrahmaan31"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/arsam31"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
-
-
 **FRONTEND/BACKEND**
 
 ![CSharp](https://img.shields.io/badge/-CSharp-000?&logo=c-sharp&logoColor=239120)
