@@ -8,7 +8,7 @@
 
 **Languages**
 
-![CSharp](https://img.shields.io/badge/-CSharp-000?&logo=C&logoColor=239120)
+![CSharp](https://img.shields.io/badge/-CSharp-000?&logo=c-sharp&logoColor=239120)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap&logoColor=563D7C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
@@ -19,7 +19,7 @@
 
 **Languages**
 
-![VisualStudio](https://img.shields.io/badge/-Visual-Studio-000?&logo=visual-studio&logoColor=5C2D91)
+![VisualStudio](https://img.shields.io/badge/-VisualStudio-000?&logo=visual-studio&logoColor=5C2D91)
 
 **Technologies**
 
