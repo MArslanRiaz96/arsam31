@@ -1,8 +1,6 @@
 
 ![GFDGFDGDFGDFGDFGDFGDFGDFGDFGD](https://github.com/arsam31/arsam31/blob/main/arsam1.gif)
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
-
 **TECHNOLOGIES**
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
@@ -57,7 +55,7 @@
 [![RGB Text Colorizer](https://img.shields.io/badge/-🌈 RGB Text Colorizer-000?)](https://github.com/adamalston/rgbTextColorizer)-->
 
 <!--[![Arsam's github stats](https://github-readme-stats.vercel.app/api?username=arsam31)](https://github.com/arsam31)-->
-  <img src="https://github-readme-stats.vercel.app/api?username=arsam31&show_icons=true&theme=blue-green">
+  <img src="https://github-readme-stats.vercel.app/api?username=arsam31&show_icons=true&theme=dark">
   
 
 
