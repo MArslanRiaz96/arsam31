@@ -16,6 +16,8 @@
 ![MicroServicesArchitecture](https://img.shields.io/badge/-MicroservicesArchitecture-000?&logo=micro:bit&logoColor=00ED00)
 ![ServerLess](https://img.shields.io/badge/-ServerLess-000?&logo=serverless&logoColor=FD5750)
 
+<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="275" /></a>
+
 **FRONTEND/BACKEND**
 
 ![CSharp](https://img.shields.io/badge/-CSharp-000?&logo=c-sharp&logoColor=239120)
@@ -26,8 +28,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=html5&logoColor=1572B6)
 ![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0769AD)
-
-<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="275" /></a>
 
 **TOOLS**
 
