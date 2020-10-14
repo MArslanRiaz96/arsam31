@@ -34,7 +34,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=2496ED)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=Rabbitmq&logoColor=FF6600)
-![MicroservicesArchitecture](https://img.shields.io/badge/-MicroservicesArchitecture-000?&logo=micro:bit&logoColor=00ED00)
+![MicroServicesArchitecture](https://img.shields.io/badge/-MicroservicesArchitecture-000?&logo=micro:bit&logoColor=00ED00)
 
 <!-- wi*quL3fcV -->
 
