@@ -16,8 +16,6 @@
 ![MicroServicesArchitecture](https://img.shields.io/badge/-MicroservicesArchitecture-000?&logo=micro:bit&logoColor=00ED00)
 ![ServerLess](https://img.shields.io/badge/-ServerLess-000?&logo=serverless&logoColor=FD5750)
 
-<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="275" /></a>
-
 **FRONTEND/BACKEND**
 
 ![CSharp](https://img.shields.io/badge/-CSharp-000?&logo=c-sharp&logoColor=239120)
@@ -61,6 +59,6 @@
 <!--[![Arsam's github stats](https://github-readme-stats.vercel.app/api?username=arsam31)](https://github.com/arsam31)-->
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=arsam31&show_icons=true&theme=blue-green">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsam31&show_icons=true&theme=blue-green&layout=compact" height="195px">
+  <a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="275" /></a>
 </div>
 
