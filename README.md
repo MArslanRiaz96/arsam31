@@ -26,6 +26,7 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Azure](https://img.shields.io/badge/-Azure-000?&logo=azure-devops&logoColor=0078D7)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=jira-software)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis&logoColor=DC382D)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=2496ED)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=Rabbitmq&logoColor=FF6600)
