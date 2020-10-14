@@ -57,17 +57,3 @@
 [![RGB Text Colorizer](https://img.shields.io/badge/-🌈 RGB Text Colorizer-000?)](https://github.com/adamalston/rgbTextColorizer)-->
 
 [![Arsam's github stats](https://github-readme-stats.vercel.app/api?username=arsam31)](https://github.com/arsam31)
-
-
-
-
-
-
-
-:book: CheckOut My Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [aws](https://dev.to/arsam31/aws-5eo8)
-<!-- BLOG-POST-LIST:END -->
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsam31&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
