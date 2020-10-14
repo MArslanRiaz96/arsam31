@@ -32,11 +32,9 @@
 ![AzureDevOps](https://img.shields.io/badge/-AzureDevOps-000?&logo=azure-devops&logoColor=0078D7)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=jira-software)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-000?&logo=Cisco)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=2496ED)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=Rabbitmq&logoColor=FF6600)
+
 <!-- wi*quL3fcV -->
 
 
