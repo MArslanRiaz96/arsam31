@@ -3,6 +3,19 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
+**TECHNOLOGIES**
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![Azure](https://img.shields.io/badge/-Azure-000?&logo=azure-devops&logoColor=0078D7)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=jira-software)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis&logoColor=DC382D)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=2496ED)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=Rabbitmq&logoColor=FF6600)
+![MicroServicesArchitecture](https://img.shields.io/badge/-MicroservicesArchitecture-000?&logo=micro:bit&logoColor=00ED00)
+![ServerLess](https://img.shields.io/badge/-ServerLess-000?&logo=serverless&logoColor=FD5750)
+
 **FRONTEND/BACKEND**
 
 ![CSharp](https://img.shields.io/badge/-CSharp-000?&logo=c-sharp&logoColor=239120)
@@ -21,19 +34,6 @@
 ![MicrosoftSqlServer](https://img.shields.io/badge/-MicrosoftSqlServer-000?&logo=microsoft-sql-server&logoColor=CC2927)
 ![Skype](https://img.shields.io/badge/-Skype-000?&logo=Skype&logoColor=00AFF0)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=Github&logoColor=181717)
-
-**TECHNOLOGIES**
-
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![Azure](https://img.shields.io/badge/-Azure-000?&logo=azure-devops&logoColor=0078D7)
-![Jira](https://img.shields.io/badge/-Jira-000?&logo=jira-software)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis&logoColor=DC382D)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=2496ED)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=Rabbitmq&logoColor=FF6600)
-![MicroServicesArchitecture](https://img.shields.io/badge/-MicroservicesArchitecture-000?&logo=micro:bit&logoColor=00ED00)
-![ServerLess](https://img.shields.io/badge/-ServerLess-000?&logo=serverless&logoColor=FD5750)
 
 **SOCIALMEDIA**
 
