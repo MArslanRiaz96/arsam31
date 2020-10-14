@@ -20,6 +20,7 @@
 **TOOLS**
 
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-000?&logo=visual-studio&logoColor=5C2D91)
+![Slack](https://img.shields.io/badge/-Slack-000?&logo=Slack&logoColor=4A154B)
 ![MicrosoftSqlServer](https://img.shields.io/badge/-MicrosoftSqlServer-000?&logo=microsoft-sql-server&logoColor=CC2927)
 ![Skype](https://img.shields.io/badge/-Skype-000?&logo=Skype&logoColor=00AFF0)
 
