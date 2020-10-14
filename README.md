@@ -53,6 +53,7 @@
 
 **LetsTalk**
 
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5&link=https://twitter.com/arsamrahmaan)](https://twitter.com/arsamrahmaan)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-000?&logo=Twitter&logoColor=1DA1F2&link=https://twitter.com/arsamrahmaan31)](https://twitter.com/arsamrahmaan31)
 
 <!-- TODO: Add last video link -->
