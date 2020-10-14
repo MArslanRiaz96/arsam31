@@ -14,6 +14,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=html5&logoColor=1572B6)
+![jQuery](https://img.shields.io/badge/-JQUERY-000?&logo=jQuery&logoColor=0769AD)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 
