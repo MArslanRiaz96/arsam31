@@ -4,14 +4,43 @@
 
 ## Where To Find Me:
 <p><a href="https://www.twitter.com/arsamrahmaan31"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/arsamrahmaan"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>  <a href="https://medium.com/@arsamrahmaan31"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/arsam31"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
-[![Linkedin: Lets Connect](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arsamrahmaan/)](https://www.linkedin.com/in/arsamrahmaan/)
-[![GitHub Follow Me](https://img.shields.io/github/followers/arsam31?label=follow&style=social)](https://github.com/arsam31)
-
-<img align="right" src="https://github.com/xtenzQ/xtenzQ/blob/master/readme.png" />
 
 
+**Languages**
 
-<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="275" /></a>
+![C](https://img.shields.io/badge/-BootStrap-000?&logo=#563D7C)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![Clojure](https://img.shields.io/badge/-Clojure-000?&logo=Clojure)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+
+**Technologies**
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=jira-software)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![TCP/IP](https://img.shields.io/badge/-TCP/IP-000?&logo=Cisco)
+<!-- wi*quL3fcV -->
+
+
+<!--**Other projects**
+
+<!--[![Overwatch](https://img.shields.io/badge/-📊 Overwatch-000?)](https://github.com/adamalston/Overwatch)
+[![Clean My Mac](https://img.shields.io/badge/-🧼 Clean My Mac-000?)](https://github.com/adamalston/Clean-My-Mac)
+[![SMTP](https://img.shields.io/badge/-📮 SMTP-000?)](https://github.com/adamalston/SMTP)
+[![Network Tools](https://img.shields.io/badge/-🌐 Network Tools-000?)](https://github.com/adamalston/Network-Tools)
+[![Cache Simulator](https://img.shields.io/badge/-🕹️ Cache Simulator-000?)](https://github.com/adamalston/CacheSimulator)
+[![RGB Text Colorizer](https://img.shields.io/badge/-🌈 RGB Text Colorizer-000?)](https://github.com/adamalston/rgbTextColorizer)-->
 
 
 
@@ -141,41 +170,7 @@
 
 
 
-**Languages**
 
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![Clojure](https://img.shields.io/badge/-Clojure-000?&logo=Clojure)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-
-**Technologies**
-
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
-![Jira](https://img.shields.io/badge/-Jira-000?&logo=jira-software)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-000?&logo=Cisco)
-<!-- wi*quL3fcV -->
-
-
-<!--**Other projects**
-
-<!--[![Overwatch](https://img.shields.io/badge/-📊 Overwatch-000?)](https://github.com/adamalston/Overwatch)
-[![Clean My Mac](https://img.shields.io/badge/-🧼 Clean My Mac-000?)](https://github.com/adamalston/Clean-My-Mac)
-[![SMTP](https://img.shields.io/badge/-📮 SMTP-000?)](https://github.com/adamalston/SMTP)
-[![Network Tools](https://img.shields.io/badge/-🌐 Network Tools-000?)](https://github.com/adamalston/Network-Tools)
-[![Cache Simulator](https://img.shields.io/badge/-🕹️ Cache Simulator-000?)](https://github.com/adamalston/CacheSimulator)
-[![RGB Text Colorizer](https://img.shields.io/badge/-🌈 RGB Text Colorizer-000?)](https://github.com/adamalston/rgbTextColorizer)-->
 
 
 
