@@ -10,13 +10,16 @@
 
 ![CSharp](https://img.shields.io/badge/-CSharp-000?&logo=C&logoColor=239120)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap&logoColor=563D7C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=html5&logoColor=1572B6)
 ![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0769AD)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
+**Languages**
+
+![Bootstrap](https://img.shields.io/badge/-VisualStudio-000?&logo=visualstudio&logoColor=5C2D91)
 
 **Technologies**
 
