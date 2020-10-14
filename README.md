@@ -19,7 +19,7 @@
 
 **Languages**
 
-![Bootstrap](https://img.shields.io/badge/-VisualStudio-000?&logo=visualstudio&logoColor=5C2D91)
+![VisualStudio](https://img.shields.io/badge/-VisualStudio-000?&logo=visual-studio&logoColor=5C2D91)
 
 **Technologies**
 
