@@ -57,7 +57,6 @@
 [![RGB Text Colorizer](https://img.shields.io/badge/-🌈 RGB Text Colorizer-000?)](https://github.com/adamalston/rgbTextColorizer)-->
 
 <!--[![Arsam's github stats](https://github-readme-stats.vercel.app/api?username=arsam31)](https://github.com/arsam31)-->
-<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="275" top="50" /></a>
   <img src="https://github-readme-stats.vercel.app/api?username=arsam31&show_icons=true&theme=blue-green">
   
 
