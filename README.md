@@ -29,7 +29,7 @@
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
+![AzureDevOps](https://img.shields.io/badge/-AzureDevOps-000?&logo=azure-devops&logoColor=0078D7)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=jira-software)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
