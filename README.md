@@ -29,11 +29,12 @@
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![AzureDevOps](https://img.shields.io/badge/-AzureDevOps-000?&logo=azure-devops&logoColor=0078D7)
+![Azure](https://img.shields.io/badge/-Azure-000?&logo=azure-devops&logoColor=0078D7)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=jira-software)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=2496ED)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=Rabbitmq&logoColor=FF6600)
+![MicroservicesArchitecture](https://img.shields.io/badge/-MicroservicesArchitecture-000?&logo=micro:bit&logoColor=00ED00)
 
 <!-- wi*quL3fcV -->
 
