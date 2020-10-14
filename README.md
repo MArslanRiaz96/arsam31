@@ -8,7 +8,7 @@
 
 **Languages**
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap&logoColor=563D7C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Clojure](https://img.shields.io/badge/-Clojure-000?&logo=Clojure)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
