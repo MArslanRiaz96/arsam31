@@ -53,7 +53,7 @@
 
 **LetsTalk**
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-000?&logo=Twitter&logoColor=1DA1F2&link=https://twitter.com/arsamrahmaan31)](https://twitter.com/arsamrahmaan31) [![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-000?&logo=Twitter&logoColor=1DA1F2&link=https://twitter.com/arsamrahmaan31)](https://twitter.com/arsamrahmaan31)
 
 <!-- TODO: Add last video link -->
 
