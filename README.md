@@ -57,8 +57,8 @@
 [![RGB Text Colorizer](https://img.shields.io/badge/-🌈 RGB Text Colorizer-000?)](https://github.com/adamalston/rgbTextColorizer)-->
 
 <!--[![Arsam's github stats](https://github-readme-stats.vercel.app/api?username=arsam31)](https://github.com/arsam31)-->
-<p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=arsam31&show_icons=true&theme=blue-green">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsam31&show_icons=true&theme=blue-green&layout=compact" height="195px">
-</p>
+
 
