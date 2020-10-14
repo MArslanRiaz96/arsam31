@@ -8,7 +8,7 @@
 
 **Languages**
 
-![CSharp](https://img.shields.io/badge/-C-Sharp-000?&logo=C-Sharp&logoColor=239120)
+![C#](https://img.shields.io/badge/-C-Sharp-000?&logo=C-Sharp&logoColor=239120)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap&logoColor=563D7C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Clojure](https://img.shields.io/badge/-Clojure-000?&logo=Clojure)
