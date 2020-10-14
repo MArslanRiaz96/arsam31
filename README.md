@@ -6,7 +6,7 @@
 <p><a href="https://www.twitter.com/arsamrahmaan31"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/arsamrahmaan"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>  <a href="https://medium.com/@arsamrahmaan31"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/arsam31"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
 
 
-**Languages**
+**FRONTEND/BACKEND**
 
 ![CSharp](https://img.shields.io/badge/-CSharp-000?&logo=c-sharp&logoColor=239120)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap&logoColor=563D7C)
@@ -17,9 +17,10 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=html5&logoColor=1572B6)
 ![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0769AD)
 
-**Languages**
+**TOOLS**
 
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-000?&logo=visual-studio&logoColor=5C2D91)
+![MicrosoftSqlServer](https://img.shields.io/badge/-MicrosoftSqlServer-000?&logo=microsoft-sql-server&logoColor=CC2927)
 
 **Technologies**
 
