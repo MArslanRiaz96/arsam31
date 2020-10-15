@@ -1,7 +1,7 @@
 
 ![GFDGFDGDFGDFGDFGDFGDFGDFGDFGD](https://github.com/arsam31/arsam31/blob/main/arsam1.gif)
 
-**TECHNOLOGIES/MODERNTECH**
+**TECHNOLOGIES/MODERN-TECH**
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
