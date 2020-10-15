@@ -14,6 +14,16 @@
 ![MicroServicesArchitecture](https://img.shields.io/badge/-MicroservicesArchitecture-000?&logo=micro:bit&logoColor=00ED00)
 ![ServerLess](https://img.shields.io/badge/-ServerLess-000?&logo=serverless&logoColor=FD5750)
 
+**SOCIALMEDIA/Q&A(Happy To connect With Fellow Professionals)**
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn(LetsConnect)-000?&logo=LinkedIn&logoColor=0077B5&link=https://linkedin.com/in/arsamrahmaan/)](https://linkedin.com/in/arsamrahmaan/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-000?&logo=Twitter&logoColor=1DA1F2&link=https://twitter.com/arsamrahmaan31)](https://twitter.com/arsamrahmaan31)
+[![FaceBook Badge](https://img.shields.io/badge/-FaceBook-000?&logo=facebook&logoColor=1877F2&link=https://facebook.com/arsamrahmaan31)](https://facebook.com/arsamrahmaan31)
+[![Dev Badge](https://img.shields.io/badge/-Dev.to-000?&logo=dev.to&logoColor=0A0A0A&link=https://dev.to/arsam31)](https://dev.to/arsam31)
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-000?&logo=leetcode&logoColor=F89F1B&link=https://leetcode.com/arsamrahmaan31/)](https://leetcode.com/arsamrahmaan31/)
+[![HAckerRank Badge](https://img.shields.io/badge/-HackerRank-000?&logo=hackerrank&logoColor=2EC866&link=https://www.hackerrank.com/arsamrahmaan31)](https://www.hackerrank.com/arsamrahmaan31)
+[![StackOverFlow Badge](https://img.shields.io/badge/-StackOverFlow-000?&logo=stack-overflow&logoColor=FE7A16&link=https://stackoverflow.com/users/8907014/arsam?tab=profile)](https://stackoverflow.com/users/8907014/arsam?tab=profile)
+
 **FRONTEND/BACKEND(Looking To Collaborate On)**
 
 ![CSharp](https://img.shields.io/badge/-CSharp-000?&logo=c-sharp&logoColor=239120)
@@ -24,16 +34,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=html5&logoColor=1572B6)
 ![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0769AD)
-
-**SOCIALMEDIA/Q&A(Happy To connect With Fellow Professionals)**
-
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn(LetsConnect)-000?&logo=LinkedIn&logoColor=0077B5&link=https://linkedin.com/in/arsamrahmaan/)](https://linkedin.com/in/arsamrahmaan/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-000?&logo=Twitter&logoColor=1DA1F2&link=https://twitter.com/arsamrahmaan31)](https://twitter.com/arsamrahmaan31)
-[![FaceBook Badge](https://img.shields.io/badge/-FaceBook-000?&logo=facebook&logoColor=1877F2&link=https://facebook.com/arsamrahmaan31)](https://facebook.com/arsamrahmaan31)
-[![Dev Badge](https://img.shields.io/badge/-Dev.to-000?&logo=dev.to&logoColor=0A0A0A&link=https://dev.to/arsam31)](https://dev.to/arsam31)
-[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-000?&logo=leetcode&logoColor=F89F1B&link=https://leetcode.com/arsamrahmaan31/)](https://leetcode.com/arsamrahmaan31/)
-[![HAckerRank Badge](https://img.shields.io/badge/-HackerRank-000?&logo=hackerrank&logoColor=2EC866&link=https://www.hackerrank.com/arsamrahmaan31)](https://www.hackerrank.com/arsamrahmaan31)
-[![StackOverFlow Badge](https://img.shields.io/badge/-StackOverFlow-000?&logo=stack-overflow&logoColor=FE7A16&link=https://stackoverflow.com/users/8907014/arsam?tab=profile)](https://stackoverflow.com/users/8907014/arsam?tab=profile)
 
 **IDE/SERVICE-PROVIDER(Tools I Use Daily)**
 
@@ -55,7 +55,7 @@
 
 [![Arsam's github stats](https://github-readme-stats.vercel.app/api?username=arsam31&show_icons=true&theme=merko)](https://github.com/arsam31)
 [![Arsam's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8907014&theme=dark)](https://stackoverflow.com/users/8907014/hafiz-arsam-rahmaan)
-  
+ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
 
 <!--<details>
