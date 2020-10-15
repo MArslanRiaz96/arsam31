@@ -1,7 +1,7 @@
 
 ![GFDGFDGDFGDFGDFGDFGDFGDFGDFGD](https://github.com/arsam31/arsam31/blob/main/arsam1.gif)
 
-**TECHNOLOGIES/MODERN-TECH**
+**TECHNOLOGIES/MODERN-TECH(Learning & Working On)**
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
@@ -14,7 +14,7 @@
 ![MicroServicesArchitecture](https://img.shields.io/badge/-MicroservicesArchitecture-000?&logo=micro:bit&logoColor=00ED00)
 ![ServerLess](https://img.shields.io/badge/-ServerLess-000?&logo=serverless&logoColor=FD5750)
 
-**FRONTEND/BACKEND**
+**FRONTEND/BACKEND(Looking To Collaborate On)**
 
 ![CSharp](https://img.shields.io/badge/-CSharp-000?&logo=c-sharp&logoColor=239120)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap&logoColor=563D7C)
@@ -25,7 +25,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=html5&logoColor=1572B6)
 ![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0769AD)
 
-**SOCIALMEDIA/Q&A(Happy to connect with fellow professionals)**
+**SOCIALMEDIA/Q&A(Happy To connect With Fellow Professionals)**
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn(LetsConnect)-000?&logo=LinkedIn&logoColor=0077B5&link=https://linkedin.com/in/arsamrahmaan/)](https://linkedin.com/in/arsamrahmaan/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-000?&logo=Twitter&logoColor=1DA1F2&link=https://twitter.com/arsamrahmaan31)](https://twitter.com/arsamrahmaan31)
@@ -33,11 +33,12 @@
 [![Dev Badge](https://img.shields.io/badge/-Dev.to-000?&logo=dev.to&logoColor=0A0A0A&link=https://dev.to/arsam31)](https://dev.to/arsam31)
 [![StackOverFlow Badge](https://img.shields.io/badge/-StackOverFlow-000?&logo=stack-overflow&logoColor=FE7A16&link=https://stackoverflow.com/users/8907014/arsam?tab=profile)](https://stackoverflow.com/users/8907014/arsam?tab=profile)
 
-**TOOLS/IDE**
+**IDE/SERVICE-PROVIDER(Tools I User Daily)**
 
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-000?&logo=visual-studio&logoColor=5C2D91)
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-000?&logo=visual-studio-code&logoColor=007ACC)
 ![MicrosoftSqlServer](https://img.shields.io/badge/-MicrosoftSqlServer-000?&logo=microsoft-sql-server&logoColor=CC2927)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazon-aws&logoColor=232F3E)
 ![Skype](https://img.shields.io/badge/-Skype-000?&logo=Skype&logoColor=00AFF0)
 <!-- https://simpleicons.org/ -->
 
