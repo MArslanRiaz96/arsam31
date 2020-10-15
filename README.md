@@ -56,7 +56,7 @@
 
 <!--[![Arsam's github stats](https://github-readme-stats.vercel.app/api?username=arsam31)](https://github.com/arsam31)-->
   <img src="https://github-readme-stats.vercel.app/api?username=arsam31&show_icons=true&theme=dark">
-  [![Arsam StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8907014)](https://stackoverflow.com/users/8907014/arsam)
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042)](https://stackoverflow.com/users/6558042/omid-nikrah)
   
 
 
