@@ -39,13 +39,14 @@
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-000?&logo=visual-studio-code&logoColor=007ACC)
 ![MicrosoftSqlServer](https://img.shields.io/badge/-MicrosoftSqlServer-000?&logo=microsoft-sql-server&logoColor=CC2927)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazon-aws&logoColor=EA77FF)
-![Skype](https://img.shields.io/badge/-Skype-000?&logo=Skype&logoColor=00AFF0)
 <!-- https://simpleicons.org/ -->
 
 **RESUME/CALLME(For Fast Contact)**
 
 [![Resume Badge](https://img.shields.io/badge/-MyResume-000?&logo=abb-robotstudio&logoColor=FF9E0F&link=https://drive.google.com/file/d/1otmBzbPAb9-I0drOY8X_N-BuVmjMCk8h/view?usp=sharing)](https://drive.google.com/file/d/1otmBzbPAb9-I0drOY8X_N-BuVmjMCk8h/view?usp=sharing)
 ![Contact Me](https://img.shields.io/badge/-+923367065720-000?&logo=whatsapp&logoColor=25D366)
+![Skype](https://img.shields.io/badge/-tf@softwarealliance.dk-000?&logo=Skype&logoColor=00AFF0)
+
 <!--**Other projects**
 
 <!--[![Overwatch](https://img.shields.io/badge/-📊 Overwatch-000?)](https://github.com/adamalston/Overwatch)
