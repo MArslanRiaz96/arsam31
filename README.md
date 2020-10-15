@@ -17,12 +17,13 @@
 **SOCIALMEDIA/Q&A(Happy To connect With Fellow Professionals)**
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn(LetsConnect)-000?&logo=LinkedIn&logoColor=0077B5&link=https://linkedin.com/in/arsamrahmaan/)](https://linkedin.com/in/arsamrahmaan/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-000?&logo=Twitter&logoColor=1DA1F2&link=https://twitter.com/arsamrahmaan31)](https://twitter.com/arsamrahmaan31)
-[![FaceBook Badge](https://img.shields.io/badge/-FaceBook-000?&logo=facebook&logoColor=1877F2&link=https://facebook.com/arsamrahmaan31)](https://facebook.com/arsamrahmaan31)
-[![Dev Badge](https://img.shields.io/badge/-Dev.to-000?&logo=dev.to&logoColor=0A0A0A&link=https://dev.to/arsam31)](https://dev.to/arsam31)
-[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-000?&logo=leetcode&logoColor=F89F1B&link=https://leetcode.com/arsamrahmaan31/)](https://leetcode.com/arsamrahmaan31/)
-[![HAckerRank Badge](https://img.shields.io/badge/-HackerRank-000?&logo=hackerrank&logoColor=2EC866&link=https://www.hackerrank.com/arsamrahmaan31)](https://www.hackerrank.com/arsamrahmaan31)
 [![StackOverFlow Badge](https://img.shields.io/badge/-StackOverFlow-000?&logo=stack-overflow&logoColor=FE7A16&link=https://stackoverflow.com/users/8907014/arsam?tab=profile)](https://stackoverflow.com/users/8907014/arsam?tab=profile)
+[![HAckerRank Badge](https://img.shields.io/badge/-HackerRank-000?&logo=hackerrank&logoColor=2EC866&link=https://www.hackerrank.com/arsamrahmaan31)]
+(https://www.hackerrank.com/arsamrahmaan31)
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-000?&logo=leetcode&logoColor=F89F1B&link=https://leetcode.com/arsamrahmaan31/)](https://leetcode.com/arsamrahmaan31/)
+[![FaceBook Badge](https://img.shields.io/badge/-FaceBook-000?&logo=facebook&logoColor=1877F2&link=https://facebook.com/arsamrahmaan31)](https://facebook.com/arsamrahmaan31)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-000?&logo=Twitter&logoColor=1DA1F2&link=https://twitter.com/arsamrahmaan31)](https://twitter.com/arsamrahmaan31)
+[![Dev Badge](https://img.shields.io/badge/-Dev.to-000?&logo=dev.to&logoColor=0A0A0A&link=https://dev.to/arsam31)](https://dev.to/arsam31)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **FRONTEND/BACKEND(Looking To Collaborate On)**
 
@@ -41,8 +42,7 @@
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-000?&logo=visual-studio-code&logoColor=007ACC)
 ![MicrosoftSqlServer](https://img.shields.io/badge/-MicrosoftSqlServer-000?&logo=microsoft-sql-server&logoColor=CC2927)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazon-aws&logoColor=EA77FF)
-<!-- https://simpleicons.org/ -->
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **RESUME/CALLME(For Fast Contact)**
 
 [![Resume Badge](https://img.shields.io/badge/-MyResume-000?&logo=abb-robotstudio&logoColor=FF9E0F&link=https://drive.google.com/file/d/1otmBzbPAb9-I0drOY8X_N-BuVmjMCk8h/view?usp=sharing)](https://drive.google.com/file/d/1otmBzbPAb9-I0drOY8X_N-BuVmjMCk8h/view?usp=sharing)
@@ -62,7 +62,7 @@
 <!--<summary>
   MORE ABOUT ME
 </summary>
-
+<!-- https://simpleicons.org/(for icons) -->
 <!--**Other projects**
 
 <!--[![Overwatch](https://img.shields.io/badge/-📊 Overwatch-000?)](https://github.com/adamalston/Overwatch)
