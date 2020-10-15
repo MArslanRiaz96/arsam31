@@ -53,7 +53,7 @@
 [![RGB Text Colorizer](https://img.shields.io/badge/-🌈 RGB Text Colorizer-000?)](https://github.com/adamalston/rgbTextColorizer)-->
 
 [![Arsam's github stats](https://github-readme-stats.vercel.app/api?username=arsam31&show_icons=true&theme=dark)](https://github.com/arsam31)
-[![Arsam's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8907014)](https://stackoverflow.com/users/8907014/arsam)
+[![Arsam's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8907014&layout=compact)](https://stackoverflow.com/users/8907014/hafiz-arsam-rahmaan)
   
 
 
