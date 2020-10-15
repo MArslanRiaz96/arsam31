@@ -33,7 +33,7 @@
 [![Dev Badge](https://img.shields.io/badge/-Dev.to-000?&logo=dev.to&logoColor=0A0A0A&link=https://dev.to/arsam31)](https://dev.to/arsam31)
 [![StackOverFlow Badge](https://img.shields.io/badge/-StackOverFlow-000?&logo=stack-overflow&logoColor=FE7A16&link=https://stackoverflow.com/users/8907014/arsam?tab=profile)](https://stackoverflow.com/users/8907014/arsam?tab=profile)
 
-**IDE/SERVICE-PROVIDER(Tools I User Daily)**
+**IDE/SERVICE-PROVIDER(Tools I Use Daily)**
 
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-000?&logo=visual-studio&logoColor=5C2D91)
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-000?&logo=visual-studio-code&logoColor=007ACC)
