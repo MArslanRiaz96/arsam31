@@ -50,7 +50,7 @@
 <!--[![Overwatch](https://img.shields.io/badge/-📊 Overwatch-000?)](https://github.com/adamalston/Overwatch)
 [![RGB Text Colorizer](https://img.shields.io/badge/-🌈 RGB Text Colorizer-000?)](https://github.com/adamalston/rgbTextColorizer)-->
 
-[![Arsam's github stats](https://github-readme-stats.vercel.app/api?username=arsam31&show_icons=true&theme=radical)](https://github.com/arsam31)
+[![Arsam's github stats](https://github-readme-stats.vercel.app/api?username=arsam31&show_icons=true&theme=merko)](https://github.com/arsam31)
 [![Arsam's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8907014&theme=dark)](https://stackoverflow.com/users/8907014/hafiz-arsam-rahmaan)
   
 
