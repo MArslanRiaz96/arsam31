@@ -31,6 +31,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-000?&logo=Twitter&logoColor=1DA1F2&link=https://twitter.com/arsamrahmaan31)](https://twitter.com/arsamrahmaan31)
 [![FaceBook Badge](https://img.shields.io/badge/-FaceBook-000?&logo=facebook&logoColor=1877F2&link=https://facebook.com/arsamrahmaan31)](https://facebook.com/arsamrahmaan31)
 [![Dev Badge](https://img.shields.io/badge/-Dev.to-000?&logo=dev.to&logoColor=0A0A0A&link=https://dev.to/arsam31)](https://dev.to/arsam31)
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-000?&logo=leetcode&logoColor=F89F1B&link=https://leetcode.com/arsamrahmaan31/)](https://leetcode.com/arsamrahmaan31/)
+[![HAckerRank Badge](https://img.shields.io/badge/-HackerRank-000?&logo=hackerrank&logoColor=2EC866&link=https://www.hackerrank.com/arsamrahmaan31)](https://www.hackerrank.com/arsamrahmaan31)
 [![StackOverFlow Badge](https://img.shields.io/badge/-StackOverFlow-000?&logo=stack-overflow&logoColor=FE7A16&link=https://stackoverflow.com/users/8907014/arsam?tab=profile)](https://stackoverflow.com/users/8907014/arsam?tab=profile)
 
 **IDE/SERVICE-PROVIDER(Tools I Use Daily)**
@@ -47,7 +49,7 @@
 ![Contact Me](https://img.shields.io/badge/-+923367065720-000?&logo=whatsapp&logoColor=25D366)
 ![Skype](https://img.shields.io/badge/-tf@softwarealliance.dk-000?&logo=Skype&logoColor=00AFF0)
 
-**MY PROFILE VISITS** 
+**PROFILE VISITS** 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=arsam31.arsam31)
 
