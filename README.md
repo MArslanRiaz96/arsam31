@@ -38,7 +38,7 @@
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-000?&logo=visual-studio&logoColor=5C2D91)
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-000?&logo=visual-studio-code&logoColor=007ACC)
 ![MicrosoftSqlServer](https://img.shields.io/badge/-MicrosoftSqlServer-000?&logo=microsoft-sql-server&logoColor=CC2927)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazon-aws&logoColor=232F3E)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazon-aws&logoColor=EA77FF)
 ![Skype](https://img.shields.io/badge/-Skype-000?&logo=Skype&logoColor=00AFF0)
 <!-- https://simpleicons.org/ -->
 
