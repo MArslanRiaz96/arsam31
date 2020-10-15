@@ -1,6 +1,6 @@
 
 ![GFDGFDGDFGDFGDFGDFGDFGDFGDFGD](https://github.com/arsam31/arsam31/blob/main/arsam1.gif)
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **TECHNOLOGIES/MODERN-TECH(Learning & Working On)**
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
