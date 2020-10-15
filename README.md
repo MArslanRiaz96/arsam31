@@ -25,7 +25,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=html5&logoColor=1572B6)
 ![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0769AD)
 
-**SOCIALMEDIA/Q&A**
+**SOCIALMEDIA/Q&A(Happy to connect with fellow professionals)**
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn(LetsConnect)-000?&logo=LinkedIn&logoColor=0077B5&link=https://linkedin.com/in/arsamrahmaan/)](https://linkedin.com/in/arsamrahmaan/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-000?&logo=Twitter&logoColor=1DA1F2&link=https://twitter.com/arsamrahmaan31)](https://twitter.com/arsamrahmaan31)
