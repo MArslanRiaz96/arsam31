@@ -42,7 +42,7 @@
 ![Skype](https://img.shields.io/badge/-Skype-000?&logo=Skype&logoColor=00AFF0)
 <!-- https://simpleicons.org/ -->
 
-**RESUME/CONTACT**
+**RESUME/CALLME(For Fast Contact)**
 
 [![Resume Badge](https://img.shields.io/badge/-MyResume-000?&logo=abb-robotstudio&logoColor=FF9E0F&link=https://drive.google.com/file/d/1otmBzbPAb9-I0drOY8X_N-BuVmjMCk8h/view?usp=sharing)](https://drive.google.com/file/d/1otmBzbPAb9-I0drOY8X_N-BuVmjMCk8h/view?usp=sharing)
 ![Contact Me](https://img.shields.io/badge/-+923367065720-000?&logo=whatsapp&logoColor=25D366)
