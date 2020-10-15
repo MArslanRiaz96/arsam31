@@ -38,7 +38,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn(LetsConnect)-000?&logo=LinkedIn&logoColor=0077B5&link=https://linkedin.com/in/arsamrahmaan/)](https://linkedin.com/in/arsamrahmaan/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-000?&logo=Twitter&logoColor=1DA1F2&link=https://twitter.com/arsamrahmaan31)](https://twitter.com/arsamrahmaan31)
 [![FaceBook Badge](https://img.shields.io/badge/-FaceBook-000?&logo=facebook&logoColor=1877F2&link=https://facebook.com/arsamrahmaan31)](https://facebook.com/arsamrahmaan31)
-[![Dev Badge](https://img.shields.io/badge/-Dev.to-000?&logo=dev.to&logoColor=0A0A0A&link=https://dev.to/arsam31)](https://facebook.com/arsam31)
+[![Dev Badge](https://img.shields.io/badge/-Dev.to-000?&logo=dev.to&logoColor=0A0A0A&link=https://dev.to/arsam31)](https://dev.to/arsam31)
 
 **RESUME**
 
