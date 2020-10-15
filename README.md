@@ -39,20 +39,17 @@
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-000?&logo=visual-studio-code&logoColor=007ACC)
 ![MicrosoftSqlServer](https://img.shields.io/badge/-MicrosoftSqlServer-000?&logo=microsoft-sql-server&logoColor=CC2927)
 ![Skype](https://img.shields.io/badge/-Skype-000?&logo=Skype&logoColor=00AFF0)
-
 <!-- https://simpleicons.org/ -->
 
 **RESUME**
 
 [![Resume Badge](https://img.shields.io/badge/-MyResume-000?&logo=abb-robotstudio&logoColor=FF9E0F&link=https://drive.google.com/file/d/1otmBzbPAb9-I0drOY8X_N-BuVmjMCk8h/view?usp=sharing)](https://drive.google.com/file/d/1otmBzbPAb9-I0drOY8X_N-BuVmjMCk8h/view?usp=sharing)
-<!-- wi*quL3fcV -->
 
 <!--**Other projects**
 
 <!--[![Overwatch](https://img.shields.io/badge/-📊 Overwatch-000?)](https://github.com/adamalston/Overwatch)
 [![RGB Text Colorizer](https://img.shields.io/badge/-🌈 RGB Text Colorizer-000?)](https://github.com/adamalston/rgbTextColorizer)-->
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042&layout=compact)](https://stackoverflow.com/users/6558042/omid-nikrah)
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042&layout=compact)](https://stackoverflow.com/users/6558042/omid-nikrah)
+
 [![Arsam's github stats](https://github-readme-stats.vercel.app/api?username=arsam31&show_icons=true&theme=dark)](https://github.com/arsam31)
 [![Arsam's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8907014&theme=dark)](https://stackoverflow.com/users/8907014/hafiz-arsam-rahmaan)
   
