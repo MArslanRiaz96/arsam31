@@ -47,25 +47,23 @@
 ![Contact Me](https://img.shields.io/badge/-+923367065720-000?&logo=whatsapp&logoColor=25D366)
 ![Skype](https://img.shields.io/badge/-tf@softwarealliance.dk-000?&logo=Skype&logoColor=00AFF0)
 
-<!--**Other projects**
+**MY PROFILE VISITS** 
 
-<!--[![Overwatch](https://img.shields.io/badge/-📊 Overwatch-000?)](https://github.com/adamalston/Overwatch)
-[![RGB Text Colorizer](https://img.shields.io/badge/-🌈 RGB Text Colorizer-000?)](https://github.com/adamalston/rgbTextColorizer)-->
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=arsam31.arsam31)
 [![Arsam's github stats](https://github-readme-stats.vercel.app/api?username=arsam31&show_icons=true&theme=merko)](https://github.com/arsam31)
 [![Arsam's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8907014&theme=dark)](https://stackoverflow.com/users/8907014/hafiz-arsam-rahmaan)
   
-#### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=arsam31.arsam31)
 
 <details>
 <summary>
   MORE ABOUT ME
 </summary>
 
-<br >
-HIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+<!--**Other projects**
+
+<!--[![Overwatch](https://img.shields.io/badge/-📊 Overwatch-000?)](https://github.com/adamalston/Overwatch)
+[![RGB Text Colorizer](https://img.shields.io/badge/-🌈 RGB Text Colorizer-000?)](https://github.com/adamalston/rgbTextColorizer)-->fdfdf
 
 </details>
 
