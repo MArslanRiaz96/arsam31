@@ -25,14 +25,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=html5&logoColor=1572B6)
 ![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0769AD)
 
-**TOOLS**
-
-![VisualStudio](https://img.shields.io/badge/-VisualStudio-000?&logo=visual-studio&logoColor=5C2D91)
-![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-000?&logo=visual-studio-code&logoColor=007ACC)
-![MicrosoftSqlServer](https://img.shields.io/badge/-MicrosoftSqlServer-000?&logo=microsoft-sql-server&logoColor=CC2927)
-![Skype](https://img.shields.io/badge/-Skype-000?&logo=Skype&logoColor=00AFF0)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=Github&logoColor=181717)
-
 **SOCIALMEDIA**
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn(LetsConnect)-000?&logo=LinkedIn&logoColor=0077B5&link=https://linkedin.com/in/arsamrahmaan/)](https://linkedin.com/in/arsamrahmaan/)
@@ -40,6 +32,13 @@
 [![FaceBook Badge](https://img.shields.io/badge/-FaceBook-000?&logo=facebook&logoColor=1877F2&link=https://facebook.com/arsamrahmaan31)](https://facebook.com/arsamrahmaan31)
 [![Dev Badge](https://img.shields.io/badge/-Dev.to-000?&logo=dev.to&logoColor=0A0A0A&link=https://dev.to/arsam31)](https://dev.to/arsam31)
 [![StackOverFlow Badge](https://img.shields.io/badge/-StackOverFlow-000?&logo=stack-overflow&logoColor=FE7A16&link=https://stackoverflow.com/users/8907014/arsam?tab=profile)](https://stackoverflow.com/users/8907014/arsam?tab=profile)
+
+**TOOLS**
+
+![VisualStudio](https://img.shields.io/badge/-VisualStudio-000?&logo=visual-studio&logoColor=5C2D91)
+![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-000?&logo=visual-studio-code&logoColor=007ACC)
+![MicrosoftSqlServer](https://img.shields.io/badge/-MicrosoftSqlServer-000?&logo=microsoft-sql-server&logoColor=CC2927)
+![Skype](https://img.shields.io/badge/-Skype-000?&logo=Skype&logoColor=00AFF0)
 
 <!-- https://simpleicons.org/ -->
 
@@ -51,16 +50,11 @@
 <!--**Other projects**
 
 <!--[![Overwatch](https://img.shields.io/badge/-📊 Overwatch-000?)](https://github.com/adamalston/Overwatch)
-[![Clean My Mac](https://img.shields.io/badge/-🧼 Clean My Mac-000?)](https://github.com/adamalston/Clean-My-Mac)
-[![SMTP](https://img.shields.io/badge/-📮 SMTP-000?)](https://github.com/adamalston/SMTP)
-[![Network Tools](https://img.shields.io/badge/-🌐 Network Tools-000?)](https://github.com/adamalston/Network-Tools)
-[![Cache Simulator](https://img.shields.io/badge/-🕹️ Cache Simulator-000?)](https://github.com/adamalston/CacheSimulator)
 [![RGB Text Colorizer](https://img.shields.io/badge/-🌈 RGB Text Colorizer-000?)](https://github.com/adamalston/rgbTextColorizer)-->
 
-<!--[![Arsam's github stats](https://github-readme-stats.vercel.app/api?username=arsam31)](https://github.com/arsam31)-->
+[![Arsam's github stats](https://github-readme-stats.vercel.app/api?username=arsam31)](https://github.com/arsam31)
   <img src="https://github-readme-stats.vercel.app/api?username=arsam31&show_icons=true&theme=dark">
 <img src="https://github-readme-stackoverflow.vercel.app/?userID=8907014&theme=dark" />
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8907014&theme=dark)](https://stackoverflow.com/users/6558042/omid-nikrah)
   
 
 
