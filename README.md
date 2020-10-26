@@ -1,6 +1,11 @@
 
 ![GFDGFDGDFGDFGDFGDFGDFGDFGDFGD](https://github.com/arsam31/arsam31/blob/main/arsam2.gif)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Certifications/Credentials(Click The Icons To Verify)**
+
+![AWS](https://img.shields.io/badge/-AWS-Certified -Clod-Practitioner-000?&logo=Amazon-AWS&logoColor=00CAFF)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **TECHNOLOGIES/MODERN-TECH(Learning & Working On)**
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
