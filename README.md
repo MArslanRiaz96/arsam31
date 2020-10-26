@@ -3,7 +3,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Certifications/Credentials(Click The Icon To Verify)**
 
-![AWS](https://img.shields.io/badge/-Aws_Certified_Cloud_Practitioner-000?&logo=Amazon-AWS&logoColor=00CAFF&link=https://drive.google.com/file/d/1otmBzbPAb9-I0drOY8X_N-BuVmjMCk8h/view?usp=sharing)](https://drive.google.com/file/d/1otmBzbPAb9-I0drOY8X_N-BuVmjMCk8h/view?usp=sharing)
+![AWS](https://img.shields.io/badge/-Aws_Certified_Cloud_Practitioner-000?&logo=Amazon-AWS&logoColor=00CAFF)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **TECHNOLOGIES/MODERN-TECH(Learning & Working On)**
