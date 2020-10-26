@@ -3,7 +3,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Certifications/Credentials(Click The Icons To Verify)**
 
-![AWS](https://img.shields.io/badge/-AWS-Certified -Clod-Practitioner-000?&logo=Amazon-AWS&logoColor=00CAFF)
+![AWS](https://img.shields.io/badge/-AWS-Certified-Clod-Practitioner-000?&logo=Amazon-AWS&logoColor=00CAFF)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **TECHNOLOGIES/MODERN-TECH(Learning & Working On)**
