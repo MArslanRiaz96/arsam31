@@ -3,7 +3,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Certifications/Credentials(Click The Icons To Verify)**
 
-![AWS](https://img.shields.io/badge/-Aws(Certified_Cloud_Practitioner)-000?&logo=Amazon-AWS&logoColor=00CAFF)
+![AWS](https://img.shields.io/badge/-Aws_Certified_Cloud_Practitioner-000?&logo=Amazon-AWS&logoColor=00CAFF)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **TECHNOLOGIES/MODERN-TECH(Learning & Working On)**
@@ -16,7 +16,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=2496ED)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=Rabbitmq&logoColor=FF6600)
-![MicroServicesArchitecture](https://img.shields.io/badge/-MicroservicesArchitecture-000?&logo=micro:bit&logoColor=00ED00)
+![MicroServicesArchitecture](https://img.shields.io/badge/-Microservices_Architecture-000?&logo=micro:bit&logoColor=00ED00)
 ![ServerLess](https://img.shields.io/badge/-ServerLess-000?&logo=serverless&logoColor=FD5750)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **SOCIALMEDIA/Q&A(Happy To connect With Fellow Professionals)**
@@ -43,8 +43,8 @@
 **IDE/SERVICE-PROVIDER(Tools I Use Daily)**
 
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-000?&logo=visual-studio&logoColor=5C2D91)
-![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-000?&logo=visual-studio-code&logoColor=007ACC)
-![MicrosoftSqlServer](https://img.shields.io/badge/-MicrosoftSqlServer-000?&logo=microsoft-sql-server&logoColor=CC2927)
+![VisualStudioCode](https://img.shields.io/badge/-VisualStudio_Code-000?&logo=visual-studio-code&logoColor=007ACC)
+![MicrosoftSqlServer](https://img.shields.io/badge/-Microsoft_Sql_Server-000?&logo=microsoft-sql-server&logoColor=CC2927)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazon-aws&logoColor=EA77FF)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **RESUME/CALLME(For Immediate Contact)**
